@@ -1,0 +1,10 @@
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\bin\Debug\ZineddinProgram1.exe.config
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\bin\Debug\ZineddinProgram1.exe
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\bin\Debug\ZineddinProgram1.pdb
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\obj\Debug\ZineddinProgram1.csprojAssemblyReference.cache
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\obj\Debug\ZineddinProgram1.Form1.resources
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\obj\Debug\ZineddinProgram1.Program1.resources
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\obj\Debug\ZineddinProgram1.Properties.Resources.resources
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\obj\Debug\ZineddinProgram1.csproj.GenerateResource.cache
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\obj\Debug\ZineddinProgram1.exe
+C:\Users\amen\Desktop\CIS605\ZineddinProgram1\obj\Debug\ZineddinProgram1.pdb
